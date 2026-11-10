@@ -111,6 +111,7 @@ Yes. In Claude Code run the one-line `claude mcp add` command above; in the Clau
 - [PyPI package linkedin-cotlet-mcp](https://pypi.org/project/linkedin-cotlet-mcp/)
 - [Glama](https://glama.ai/mcp/servers/cotlet-connect/linkedin-mcp)
 - [LobeHub](https://lobehub.com/mcp/cotlet-connect-linkedin-mcp)
+- [Odel](https://odel.app/modules/cotlet/linkedin)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-linkedin-to-ai-agents-guide)
 
 ## Also works with
